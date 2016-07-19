@@ -1,1 +1,3 @@
-Lessons File:
+Lessons File: 2
+
+To check staged files to determine changes prior to a commit, run Git Diff --staged
